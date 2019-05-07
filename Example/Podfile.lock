@@ -1,0 +1,23 @@
+PODS:
+  - libPhotoPicker (0.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - libPhotoPicker (from `../`)
+  - Masonry (= 1.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  libPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  libPhotoPicker: e000acfd7176a499a037970b283ae36ee734d32e
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: df2b62c0fdc9b012f4e05f2112c3ce13618f2bab
+
+COCOAPODS: 1.5.3
