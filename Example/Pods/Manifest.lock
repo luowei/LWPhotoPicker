@@ -1,0 +1,31 @@
+PODS:
+  - libPhotoPicker (0.1.0):
+    - Masonry
+    - SDWebImage
+  - Masonry (1.1.0)
+  - SDWebImage (5.0.1):
+    - SDWebImage/Core (= 5.0.1)
+  - SDWebImage/Core (5.0.1)
+
+DEPENDENCIES:
+  - libPhotoPicker (from `../`)
+  - Masonry (= 1.1.0)
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  libPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  libPhotoPicker: 6a773560a6cb0fa0d9d81a1fb964bbf0f2afd54b
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 27dd2c9ea07a2252f94557c9fbb6105ee94b74c9
+
+PODFILE CHECKSUM: 586bcf9b21bbaa98f98ae718fc61592e7e6e021f
+
+COCOAPODS: 1.5.3
