@@ -11,3 +11,15 @@
 @interface LWViewController : UIViewController
 
 @end
+
+
+
+@interface UIImage (Blur)
+
+//模糊化
+-(UIImage *)blurImageWithRadius:(CGFloat)radius;
+
+//将一张图片模糊化
+- (UIImage *)blurWithRect:(CGRect)rect radius:(CGFloat)radius;
+
+@end

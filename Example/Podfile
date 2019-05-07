@@ -6,6 +6,7 @@ target 'libPhotoPicker_Example' do
   pod 'libPhotoPicker', :path => '../'
 
   pod 'Masonry','1.1.0'
+  pod 'SDWebImage', '~> 5.0'
 
   # target 'libPhotoPicker_Tests' do
   #   inherit! :search_paths
