@@ -2,13 +2,13 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target 'libPhotoPicker_Example' do
-  pod 'libPhotoPicker', :path => '../'
+target 'LWPhotoPicker_Example' do
+  pod 'LWPhotoPicker', :path => '../'
 
   pod 'Masonry','1.1.0'
-  pod 'SDWebImage', '~> 5.0'
+  pod 'SDWebImage', '5.4.0'
 
-  # target 'libPhotoPicker_Tests' do
+  # target 'LWPhotoPicker_Tests' do
   #   inherit! :search_paths
   #
   # end

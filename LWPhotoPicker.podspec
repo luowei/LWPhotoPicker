@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint libPhotoPicker.podspec' to ensure this is a
+# Be sure to run `pod lib lint LWPhotoPicker.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'libPhotoPicker'
+  s.name             = 'LWPhotoPicker'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of libPhotoPicker.'
+  s.summary          = 'A short description of LWPhotoPicker.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,19 +21,19 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/luowei/libPhotoPicker'
+  s.homepage         = 'https://github.com/luowei/LWPhotoPicker'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luowei' => 'luowei@wodedata.com' }
-  s.source           = { :git => 'https://github.com/luowei/libPhotoPicker.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/luowei/LWPhotoPicker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'libPhotoPicker/Classes/**/*'
+  s.source_files = 'LWPhotoPicker/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'libPhotoPicker' => ['libPhotoPicker/Assets/*.png']
+  #   'LWPhotoPicker' => ['LWPhotoPicker/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

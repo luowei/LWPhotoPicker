@@ -1,12 +1,12 @@
 //
 //  LWViewController.m
-//  libPhotoPicker
+//  LWPhotoPicker
 //
 //  Created by luowei on 05/07/2019.
 //  Copyright (c) 2019 luowei. All rights reserved.
 //
 
-#import <libPhotoPicker/LWAspectPhotoPickerView.h>
+#import <LWPhotoPicker/LWAspectPhotoPickerView.h>
 #import <Masonry/View+MASAdditions.h>
 #import "LWViewController.h"
 #import "LWPhotoPickerView.h"
