@@ -1,3 +1,6 @@
+source 'https://gitlab.com/ioslibraries1/mygitlabrepo.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
 use_frameworks!
 
 platform :ios, '8.0'
@@ -6,7 +9,6 @@ target 'LWPhotoPicker_Example' do
   pod 'LWPhotoPicker', :path => '../'
 
   pod 'Masonry','1.1.0'
-  pod 'SDWebImage', '5.4.0'
 
   # target 'LWPhotoPicker_Tests' do
   #   inherit! :search_paths

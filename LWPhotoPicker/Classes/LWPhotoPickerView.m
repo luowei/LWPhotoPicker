@@ -8,13 +8,14 @@
 
 #import <Photos/Photos.h>
 #import "LWPhotoPickerView.h"
-#import "SDImageCache.h"
 #import "LWPhotoPicker.h"
 #import "Masonry.h"
+#import "YYDiskCache.h"
 
 @interface LWPhotoPickerView ()
 @property(nonatomic) CGSize outSize;
 @property(nonatomic, copy) void (^pickedBlock)(UIImage *);
+@property(nonatomic, strong) YYDiskCache *diskCache;
 @end
 
 @implementation LWPhotoPickerView
@@ -88,9 +89,8 @@
     cell.photoAsset = asset;
 
     //从缓存目录找,没有才去相册加载
-    SDImageCache *imageCache = [SDImageCache sharedImageCache];
-    UIImage *image = [imageCache imageFromDiskCacheForKey:assetIdentifier];
-    if(image){
+    if([self.diskCache containsObjectForKey:assetIdentifier]){
+        UIImage *image  = [self.diskCache objectForKey:assetIdentifier];
         cell.imageView.image = image;
         cell.imageView.highlightedImage = image;
     }else{
@@ -100,8 +100,8 @@
         [self.photoPicker requestImageForAsset:asset size:itemSize synchronous:NO completion:^(UIImage *img, NSDictionary *info) {
             dispatch_async(dispatch_get_main_queue(), ^() {
                 cell.imageView.image = img;
-                cell.imageView.highlightedImage = image;
-                [imageCache storeImage:img forKey:assetIdentifier toDisk:YES completion:nil];
+                cell.imageView.highlightedImage = img;
+                [self.diskCache setObject:img forKey:assetIdentifier];
             });
         }];
     }
@@ -117,11 +117,11 @@
     //UIImage *cellImage = cell.imageView.image;
     PHAsset *asset = cell.photoAsset;
     //从缓存目录找,没有才去相册加载
-    SDImageCache *imageCache = [SDImageCache sharedImageCache];
+
     NSString *keyString = [NSString stringWithFormat:@"keybooard_%@", asset.localIdentifier];
 
-    UIImage *image = [imageCache imageFromDiskCacheForKey:keyString];
-    if(image){
+    if([self.diskCache containsObjectForKey:keyString]){
+        UIImage *image = [self.diskCache objectForKey:keyString];
         if(self.pickedBlock){
             self.pickedBlock(image);
         }
@@ -138,7 +138,7 @@
             [self.photoPicker requestImageForAsset:asset size:itemSize synchronous:NO completion:^(UIImage *img, NSDictionary *info) {
                 __strong typeof(weakSelf) strongSelf = weakSelf;
                 //给cell设置Image
-                [[SDImageCache sharedImageCache] storeImage:img forKey:keyString toDisk:YES completion:nil];
+                [strongSelf.diskCache setObject:img forKey:keyString];
 
                 dispatch_async(dispatch_get_main_queue(), ^() {
                     if(strongSelf.pickedBlock){
@@ -157,6 +157,12 @@
     [collectionView deselectItemAtIndexPath:indexPath animated:NO];
 }
 
+-(YYDiskCache *)diskCache {
+    if(!_diskCache){
+        _diskCache = [[YYDiskCache alloc] initWithPath:NSTemporaryDirectory()];
+    }
+    return _diskCache;
+}
 
 @end
 

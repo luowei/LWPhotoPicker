@@ -1,32 +1,28 @@
 PODS:
-  - LWPhotoPicker (0.1.0):
+  - LWPhotoPicker (1.0.0):
     - Masonry
-    - SDWebImage
+    - YYCache
   - Masonry (1.1.0)
-  - SDWebImage (5.4.0):
-    - SDWebImage/Core (= 5.4.0)
-  - SDWebImage/Core (5.4.0)
+  - YYCache (1.0.4)
 
 DEPENDENCIES:
   - LWPhotoPicker (from `../`)
   - Masonry (= 1.1.0)
-  - SDWebImage (= 5.4.0)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - Masonry
-  trunk:
-    - SDWebImage
+    - YYCache
 
 EXTERNAL SOURCES:
   LWPhotoPicker:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LWPhotoPicker: 7d3d57d30252065b2aabbc88510eee7636eb742d
+  LWPhotoPicker: f2e40f7eb11e50d691fb5bea78fea15f7b733372
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
 
-PODFILE CHECKSUM: 92084fe512089d6b3148f2009273b9131b3e0f72
+PODFILE CHECKSUM: c553dbb346b49ad5a1a89db0a53607a3fc42acab
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.8.3

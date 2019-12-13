@@ -12,6 +12,7 @@
 @class LWPhotoPicker;
 @class LWPhotoPickerView;
 @class PHAsset;
+@class YYDiskCache;
 
 
 @interface LWPhotoPickerView : UICollectionView<UICollectionViewDataSource,UICollectionViewDelegateFlowLayout>
