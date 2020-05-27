@@ -7,7 +7,8 @@ PODS:
 
 DEPENDENCIES:
   - LWPhotoPicker (from `../`)
-  - Masonry (= 1.1.0)
+  - Masonry
+  - YYCache
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -23,6 +24,6 @@ SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
 
-PODFILE CHECKSUM: c553dbb346b49ad5a1a89db0a53607a3fc42acab
+PODFILE CHECKSUM: 2b1f7a878ce04fc7cd393f7be2755768a99eb3c1
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.9.2
