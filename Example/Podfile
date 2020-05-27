@@ -8,7 +8,8 @@ platform :ios, '8.0'
 target 'LWPhotoPicker_Example' do
   pod 'LWPhotoPicker', :path => '../'
 
-  pod 'Masonry','1.1.0'
+  pod 'Masonry'
+  pod 'YYCache'
 
   # target 'LWPhotoPicker_Tests' do
   #   inherit! :search_paths
