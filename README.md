@@ -9,6 +9,18 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```Objective-C
+LWPhotoPickerView *photoPickerView = [LWPhotoPickerView photoPickerWithFrame:skinSettingPopView.bounds];
+[skinSettingPopView addSubview:photoPickerView];
+photoPickerView.pickerDelegate = self;
+[photoPickerView mas_makeConstraints:^(MASConstraintMaker *make) {
+    make.edges.equalTo(skinSettingPopView).with.insets(UIEdgeInsetsMake(0, 0, 0, 0));
+}];
+
+//in block
+[weakSelf.pickerDelegate pickView:(LWPhotoPickerView *)weakSelf didSelectItem:cell];
+```
+
 ## Requirements
 
 ## Installation
