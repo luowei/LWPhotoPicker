@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint LWPhotoPicker.podspec' to ensure this is a
+# Be sure to run `pod lib lint LWPhotoPicker_swift.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'LWPhotoPicker'
+  s.name             = 'LWPhotoPicker_swift'
   s.version          = '1.0.0'
-  s.summary          = '照片选择器，支持保留宽高比与固定宽高比两种类型选择视图.'
+  s.summary          = 'LWPhotoPicker Swift version - Photo picker with aspect ratio support written in Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-LWPhotoPicker，照片选择器，支持保留宽高比与固定宽高比两种类型选择视图.
+LWPhotoPicker Swift version - This is the Swift submodule of LWPhotoPicker containing photo picker components written in Swift. Supports both preserve aspect ratio and fixed aspect ratio photo selection views.
                        DESC
 
   s.homepage         = 'https://github.com/luowei/LWPhotoPicker'
@@ -26,23 +26,21 @@ LWPhotoPicker，照片选择器，支持保留宽高比与固定宽高比两种�
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luowei' => 'luowei@wodedata.com' }
   s.source           = { :git => 'https://github.com/luowei/LWPhotoPicker.git'}
-  # s.source           = { :git => 'https://gitlab.com/ioslibraries1/libphotopicker.git' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '5.0'
 
-  s.source_files = 'LWPhotoPicker/Classes/**/*'
-  s.exclude_files = 'LWPhotoPicker/SwiftClasses/**/*.swift'
+  s.source_files = 'LWPhotoPicker_swift/SwiftClasses/**/*'
 
   # s.resource_bundles = {
-  #   'LWPhotoPicker' => ['LWPhotoPicker/Assets/*.png']
+  #   'LWPhotoPicker_swift' => ['LWPhotoPicker_swift/Assets/*.png']
   # }
 
-  s.public_header_files = 'LWPhotoPicker/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 
   s.dependency 'Masonry'
   s.dependency 'YYCache'
-
 end

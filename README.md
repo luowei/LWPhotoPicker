@@ -34,6 +34,10 @@
 - Batch photo size calculation utilities
 - Custom album creation and management
 
+### Swift Version
+
+For Swift implementation, please see [Swift Version Documentation](./README_SWIFT_VERSION.md).
+
 ## Requirements
 
 - iOS 8.0 or later
