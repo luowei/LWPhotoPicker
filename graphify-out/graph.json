@@ -1,0 +1,2292 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Tests.m",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L1",
+      "id": "example_tests_tests_m",
+      "community": 8,
+      "norm_label": "tests.m"
+    },
+    {
+      "label": "Tests",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "id": "tests_tests_tests",
+      "community": 8,
+      "norm_label": "tests"
+    },
+    {
+      "label": "-setUp",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "id": "tests_tests_tests_setup",
+      "community": 8,
+      "norm_label": "-setup"
+    },
+    {
+      "label": "-tearDown",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "id": "tests_tests_tests_teardown",
+      "community": 8,
+      "norm_label": "-teardown"
+    },
+    {
+      "label": "-testExample",
+      "file_type": "code",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "id": "tests_tests_tests_testexample",
+      "community": 8,
+      "norm_label": "-testexample"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwphotopicker_lwviewcontroller_h",
+      "community": 9,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwphotopicker_lwappdelegate_h",
+      "community": 10,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/main.m",
+      "source_location": "L1",
+      "id": "example_lwphotopicker_main_m",
+      "community": 11,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwphotopicker_lwappdelegate_m",
+      "community": 7,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L11",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "community": 7,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L13",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 7,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L19",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 7,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L25",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 7,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L31",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 7,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L36",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 7,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L41",
+      "id": "lwphotopicker_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 7,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwphotopicker_lwviewcontroller_m",
+      "community": 6,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L14",
+      "id": "lwphotopicker_lwviewcontroller_lwviewcontroller",
+      "community": 6,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L24",
+      "id": "lwphotopicker_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 6,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-leftPickerBtnAction",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L71",
+      "id": "lwphotopicker_lwviewcontroller_lwviewcontroller_leftpickerbtnaction",
+      "community": 6,
+      "norm_label": "-leftpickerbtnaction"
+    },
+    {
+      "label": "-rightPickerBtnAction",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L85",
+      "id": "lwphotopicker_lwviewcontroller_lwviewcontroller_rightpickerbtnaction",
+      "community": 6,
+      "norm_label": "-rightpickerbtnaction"
+    },
+    {
+      "label": "UIImage",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L118",
+      "id": "lwphotopicker_lwviewcontroller_uiimage",
+      "community": 6,
+      "norm_label": "uiimage"
+    },
+    {
+      "label": "-blurImageWithRadius",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L121",
+      "id": "lwphotopicker_lwviewcontroller_uiimage_blurimagewithradius",
+      "community": 6,
+      "norm_label": "-blurimagewithradius"
+    },
+    {
+      "label": "-blurWithRectradius",
+      "file_type": "code",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L126",
+      "id": "lwphotopicker_lwviewcontroller_uiimage_blurwithrectradius",
+      "community": 6,
+      "norm_label": "-blurwithrectradius"
+    },
+    {
+      "label": "LWAspectPhotoPickerView.swift",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L1",
+      "id": "lwphotopicker_swift_swiftclasses_lwaspectphotopickerview_swift",
+      "community": 4,
+      "norm_label": "lwaspectphotopickerview.swift"
+    },
+    {
+      "label": "LWAspectPhotoPickerView",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L15",
+      "id": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview",
+      "community": 4,
+      "norm_label": "lwaspectphotopickerview"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "view",
+      "community": 2,
+      "norm_label": "view"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L20",
+      "id": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "AspectPhotoPickerViewModel",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L56",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "community": 4,
+      "norm_label": "aspectphotopickerviewmodel"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 2,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L63",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadPhotos()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L70",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_loadphotos",
+      "community": 4,
+      "norm_label": ".loadphotos()"
+    },
+    {
+      "label": ".selectPhoto()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L74",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_selectphoto",
+      "community": 4,
+      "norm_label": ".selectphoto()"
+    },
+    {
+      "label": ".cropImage()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L122",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_cropimage",
+      "community": 4,
+      "norm_label": ".cropimage()"
+    },
+    {
+      "label": "AspectPhotoCell",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L145",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotocell",
+      "community": 4,
+      "norm_label": "aspectphotocell"
+    },
+    {
+      "label": ".loadImage()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L187",
+      "id": "swiftclasses_lwaspectphotopickerview_aspectphotocell_loadimage",
+      "community": 4,
+      "norm_label": ".loadimage()"
+    },
+    {
+      "label": "LWAspectPhotoPickerUIView",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L209",
+      "id": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview",
+      "community": 4,
+      "norm_label": "lwaspectphotopickeruiview"
+    },
+    {
+      "label": "UIView",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "uiview",
+      "community": 2,
+      "norm_label": "uiview"
+    },
+    {
+      "label": ".pickerPhoto()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L215",
+      "id": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_pickerphoto",
+      "community": 4,
+      "norm_label": ".pickerphoto()"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L231",
+      "id": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_init",
+      "community": 4,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".setupSwiftUIView()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L240",
+      "id": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_setupswiftuiview",
+      "community": 4,
+      "norm_label": ".setupswiftuiview()"
+    },
+    {
+      "label": "LWPhotoPickerView.swift",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L1",
+      "id": "lwphotopicker_swift_swiftclasses_lwphotopickerview_swift",
+      "community": 2,
+      "norm_label": "lwphotopickerview.swift"
+    },
+    {
+      "label": "LWPhotoPickerView",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L16",
+      "id": "swiftclasses_lwphotopickerview_lwphotopickerview",
+      "community": 2,
+      "norm_label": "lwphotopickerview"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L23",
+      "id": "swiftclasses_lwphotopickerview_lwphotopickerview_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "PhotoPickerViewModel",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L75",
+      "id": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "community": 2,
+      "norm_label": "photopickerviewmodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L83",
+      "id": "swiftclasses_lwphotopickerview_photopickerviewmodel_init",
+      "community": 2,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".loadPhotos()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L89",
+      "id": "swiftclasses_lwphotopickerview_photopickerviewmodel_loadphotos",
+      "community": 2,
+      "norm_label": ".loadphotos()"
+    },
+    {
+      "label": ".selectPhoto()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L93",
+      "id": "swiftclasses_lwphotopickerview_photopickerviewmodel_selectphoto",
+      "community": 2,
+      "norm_label": ".selectphoto()"
+    },
+    {
+      "label": "PhotoCell",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L129",
+      "id": "swiftclasses_lwphotopickerview_photocell",
+      "community": 2,
+      "norm_label": "photocell"
+    },
+    {
+      "label": ".loadImage()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L156",
+      "id": "swiftclasses_lwphotopickerview_photocell_loadimage",
+      "community": 2,
+      "norm_label": ".loadimage()"
+    },
+    {
+      "label": "LWPhotoPickerUIView",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L178",
+      "id": "swiftclasses_lwphotopickerview_lwphotopickeruiview",
+      "community": 2,
+      "norm_label": "lwphotopickeruiview"
+    },
+    {
+      "label": ".photoPicker()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L186",
+      "id": "swiftclasses_lwphotopickerview_lwphotopickeruiview_photopicker",
+      "community": 2,
+      "norm_label": ".photopicker()"
+    },
+    {
+      "label": ".setupSwiftUIView()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L196",
+      "id": "swiftclasses_lwphotopickerview_lwphotopickeruiview_setupswiftuiview",
+      "community": 2,
+      "norm_label": ".setupswiftuiview()"
+    },
+    {
+      "label": "LWPhotoPicker.swift",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L1",
+      "id": "lwphotopicker_swift_swiftclasses_lwphotopicker_swift",
+      "community": 0,
+      "norm_label": "lwphotopicker.swift"
+    },
+    {
+      "label": "LWPhotoAlbumList",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L16",
+      "id": "swiftclasses_lwphotopicker_lwphotoalbumlist",
+      "community": 0,
+      "norm_label": "lwphotoalbumlist"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L29",
+      "id": "swiftclasses_lwphotopicker_lwphotoalbumlist_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWPhotoModel",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L35",
+      "id": "swiftclasses_lwphotopicker_lwphotomodel",
+      "community": 0,
+      "norm_label": "lwphotomodel"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L39",
+      "id": "swiftclasses_lwphotopicker_lwphotomodel_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWPhotoPicker",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L45",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker",
+      "community": 0,
+      "norm_label": "lwphotopicker"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L49",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".saveImage()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L59",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_saveimage",
+      "community": 0,
+      "norm_label": ".saveimage()"
+    },
+    {
+      "label": ".getDestinationCollection()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L97",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_getdestinationcollection",
+      "community": 0,
+      "norm_label": ".getdestinationcollection()"
+    },
+    {
+      "label": ".getPhotoAlbumList()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L136",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_getphotoalbumlist",
+      "community": 0,
+      "norm_label": ".getphotoalbumlist()"
+    },
+    {
+      "label": ".fetchAssets()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L186",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_fetchassets",
+      "community": 0,
+      "norm_label": ".fetchassets()"
+    },
+    {
+      "label": ".getAllAssets()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L197",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_getallassets",
+      "community": 0,
+      "norm_label": ".getallassets()"
+    },
+    {
+      "label": ".getAssets()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L219",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_getassets",
+      "community": 0,
+      "norm_label": ".getassets()"
+    },
+    {
+      "label": ".requestImage()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L240",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_requestimage",
+      "community": 6,
+      "norm_label": ".requestimage()"
+    },
+    {
+      "label": ".getPhotosBytes()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L326",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_getphotosbytes",
+      "community": 0,
+      "norm_label": ".getphotosbytes()"
+    },
+    {
+      "label": ".transformDataLength()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L349",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_transformdatalength",
+      "community": 0,
+      "norm_label": ".transformdatalength()"
+    },
+    {
+      "label": ".judgeAssetIsInLocalAlbum()",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L364",
+      "id": "swiftclasses_lwphotopicker_lwphotopicker_judgeassetisinlocalalbum",
+      "community": 0,
+      "norm_label": ".judgeassetisinlocalalbum()"
+    },
+    {
+      "label": "LWAspectPhotoPickerView.h",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.h",
+      "source_location": "L1",
+      "id": "lwphotopicker_classes_lwaspectphotopickerview_h",
+      "community": 12,
+      "norm_label": "lwaspectphotopickerview.h"
+    },
+    {
+      "label": "LWPhotoPicker.h",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.h",
+      "source_location": "L1",
+      "id": "lwphotopicker_classes_lwphotopicker_h",
+      "community": 13,
+      "norm_label": "lwphotopicker.h"
+    },
+    {
+      "label": "LWPhotoPickerView.m",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L1",
+      "id": "lwphotopicker_classes_lwphotopickerview_m",
+      "community": 5,
+      "norm_label": "lwphotopickerview.m"
+    },
+    {
+      "label": "LWPhotoPickerView",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L15",
+      "id": "classes_lwphotopickerview_lwphotopickerview",
+      "community": 5,
+      "norm_label": "lwphotopickerview"
+    },
+    {
+      "label": "-photoPickerWithFrameoutSizepickedBlock",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L23",
+      "id": "classes_lwphotopickerview_lwphotopickerview_photopickerwithframeoutsizepickedblock",
+      "community": 5,
+      "norm_label": "-photopickerwithframeoutsizepickedblock"
+    },
+    {
+      "label": "-initWithFramecollectionViewLayout",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L39",
+      "id": "classes_lwphotopickerview_lwphotopickerview_initwithframecollectionviewlayout",
+      "community": 5,
+      "norm_label": "-initwithframecollectionviewlayout"
+    },
+    {
+      "label": "-collectionViewnumberOfItemsInSection",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L58",
+      "id": "classes_lwphotopickerview_lwphotopickerview_collectionviewnumberofitemsinsection",
+      "community": 5,
+      "norm_label": "-collectionviewnumberofitemsinsection"
+    },
+    {
+      "label": "-reloadPhotos",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L66",
+      "id": "classes_lwphotopickerview_lwphotopickerview_reloadphotos",
+      "community": 5,
+      "norm_label": "-reloadphotos"
+    },
+    {
+      "label": "-collectionViewcellForItemAtIndexPath",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L80",
+      "id": "classes_lwphotopickerview_lwphotopickerview_collectionviewcellforitematindexpath",
+      "community": 5,
+      "norm_label": "-collectionviewcellforitematindexpath"
+    },
+    {
+      "label": "-collectionViewdidSelectItemAtIndexPath",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L112",
+      "id": "classes_lwphotopickerview_lwphotopickerview_collectionviewdidselectitematindexpath",
+      "community": 5,
+      "norm_label": "-collectionviewdidselectitematindexpath"
+    },
+    {
+      "label": "-collectionViewdidDeselectItemAtIndexPath",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L156",
+      "id": "classes_lwphotopickerview_lwphotopickerview_collectionviewdiddeselectitematindexpath",
+      "community": 5,
+      "norm_label": "-collectionviewdiddeselectitematindexpath"
+    },
+    {
+      "label": "-diskCache",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L160",
+      "id": "classes_lwphotopickerview_lwphotopickerview_diskcache",
+      "community": 5,
+      "norm_label": "-diskcache"
+    },
+    {
+      "label": "LWPhotoCollectionCell",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L171",
+      "id": "classes_lwphotopickerview_lwphotocollectioncell",
+      "community": 5,
+      "norm_label": "lwphotocollectioncell"
+    },
+    {
+      "label": "-initWithFrame",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L173",
+      "id": "classes_lwphotopickerview_lwphotocollectioncell_initwithframe",
+      "community": 5,
+      "norm_label": "-initwithframe"
+    },
+    {
+      "label": "LWAspectPhotoPickerView.m",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L1",
+      "id": "lwphotopicker_classes_lwaspectphotopickerview_m",
+      "community": 1,
+      "norm_label": "lwaspectphotopickerview.m"
+    },
+    {
+      "label": "LWAspectPhotoPickerView",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L9",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "community": 1,
+      "norm_label": "lwaspectphotopickerview"
+    },
+    {
+      "label": "-pickerPhotoWithSizepickedBlock",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L21",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_pickerphotowithsizepickedblock",
+      "community": 1,
+      "norm_label": "-pickerphotowithsizepickedblock"
+    },
+    {
+      "label": "-initWithFramewithPhotoPicker",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L31",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_initwithframewithphotopicker",
+      "community": 1,
+      "norm_label": "-initwithframewithphotopicker"
+    },
+    {
+      "label": "-didMoveToSuperview",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L60",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_didmovetosuperview",
+      "community": 1,
+      "norm_label": "-didmovetosuperview"
+    },
+    {
+      "label": "-reoadPhotos",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L66",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_reoadphotos",
+      "community": 1,
+      "norm_label": "-reoadphotos"
+    },
+    {
+      "label": "-collectionViewnumberOfItemsInSection",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L73",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewnumberofitemsinsection",
+      "community": 1,
+      "norm_label": "-collectionviewnumberofitemsinsection"
+    },
+    {
+      "label": "-collectionViewcellForItemAtIndexPath",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L77",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewcellforitematindexpath",
+      "community": 1,
+      "norm_label": "-collectionviewcellforitematindexpath"
+    },
+    {
+      "label": "-collectionViewlayoutsizeForItemAtIndexPath",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L92",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewlayoutsizeforitematindexpath",
+      "community": 1,
+      "norm_label": "-collectionviewlayoutsizeforitematindexpath"
+    },
+    {
+      "label": "-collectionViewdidSelectItemAtIndexPath",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L97",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewdidselectitematindexpath",
+      "community": 1,
+      "norm_label": "-collectionviewdidselectitematindexpath"
+    },
+    {
+      "label": "-croppingImagecenterSquareSize",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L130",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_croppingimagecentersquaresize",
+      "community": 1,
+      "norm_label": "-croppingimagecentersquaresize"
+    },
+    {
+      "label": "-getSizeWithAsset",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L149",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_getsizewithasset",
+      "community": 1,
+      "norm_label": "-getsizewithasset"
+    },
+    {
+      "label": "-getImageWithAssetcompletion",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L158",
+      "id": "classes_lwaspectphotopickerview_lwaspectphotopickerview_getimagewithassetcompletion",
+      "community": 1,
+      "norm_label": "-getimagewithassetcompletion"
+    },
+    {
+      "label": "LWAspectSizePhotoCollectionCell",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L170",
+      "id": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell",
+      "community": 1,
+      "norm_label": "lwaspectsizephotocollectioncell"
+    },
+    {
+      "label": "-initWithFrame",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L172",
+      "id": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell_initwithframe",
+      "community": 1,
+      "norm_label": "-initwithframe"
+    },
+    {
+      "label": "-layoutSubviews",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L187",
+      "id": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell_layoutsubviews",
+      "community": 1,
+      "norm_label": "-layoutsubviews"
+    },
+    {
+      "label": "LWPhotoPicker.m",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L1",
+      "id": "lwphotopicker_classes_lwphotopicker_m",
+      "community": 3,
+      "norm_label": "lwphotopicker.m"
+    },
+    {
+      "label": "LWPhotoAblumList",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L12",
+      "id": "classes_lwphotopicker_lwphotoablumlist",
+      "community": 3,
+      "norm_label": "lwphotoablumlist"
+    },
+    {
+      "label": "LWPhotoPicker",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L16",
+      "id": "classes_lwphotopicker_lwphotopicker",
+      "community": 3,
+      "norm_label": "lwphotopicker"
+    },
+    {
+      "label": "-saveImageToAblumcompletion",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L22",
+      "id": "classes_lwphotopicker_lwphotopicker_saveimagetoablumcompletion",
+      "community": 3,
+      "norm_label": "-saveimagetoablumcompletion"
+    },
+    {
+      "label": "-getDestinationCollection",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L57",
+      "id": "classes_lwphotopicker_lwphotopicker_getdestinationcollection",
+      "community": 3,
+      "norm_label": "-getdestinationcollection"
+    },
+    {
+      "label": "-getPhotoAblumList",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L81",
+      "id": "classes_lwphotopicker_lwphotopicker_getphotoablumlist",
+      "community": 3,
+      "norm_label": "-getphotoablumlist"
+    },
+    {
+      "label": "-fetchAssetsInAssetCollectionascending",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L119",
+      "id": "classes_lwphotopicker_lwphotopicker_fetchassetsinassetcollectionascending",
+      "community": 3,
+      "norm_label": "-fetchassetsinassetcollectionascending"
+    },
+    {
+      "label": "-getAllAssetInPhotoAblumWithAscending",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L128",
+      "id": "classes_lwphotopicker_lwphotopicker_getallassetinphotoablumwithascending",
+      "community": 3,
+      "norm_label": "-getallassetinphotoablumwithascending"
+    },
+    {
+      "label": "-getAssetsInAssetCollectionascending",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L147",
+      "id": "classes_lwphotopicker_lwphotopicker_getassetsinassetcollectionascending",
+      "community": 3,
+      "norm_label": "-getassetsinassetcollectionascending"
+    },
+    {
+      "label": "-requestImageForAssetsizesynchronouscompletion",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L161",
+      "id": "classes_lwphotopicker_lwphotopicker_requestimageforassetsizesynchronouscompletion",
+      "community": 3,
+      "norm_label": "-requestimageforassetsizesynchronouscompletion"
+    },
+    {
+      "label": "-requestImageForAssetscaleresizeModecompletion",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L201",
+      "id": "classes_lwphotopicker_lwphotopicker_requestimageforassetscaleresizemodecompletion",
+      "community": 3,
+      "norm_label": "-requestimageforassetscaleresizemodecompletion"
+    },
+    {
+      "label": "-getPhotosBytesWithArraycompletion",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L216",
+      "id": "classes_lwphotopicker_lwphotopicker_getphotosbyteswitharraycompletion",
+      "community": 3,
+      "norm_label": "-getphotosbyteswitharraycompletion"
+    },
+    {
+      "label": "-transformDataLength",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L237",
+      "id": "classes_lwphotopicker_lwphotopicker_transformdatalength",
+      "community": 3,
+      "norm_label": "-transformdatalength"
+    },
+    {
+      "label": "-judgeAssetisInLocalAblum",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L249",
+      "id": "classes_lwphotopicker_lwphotopicker_judgeassetisinlocalablum",
+      "community": 3,
+      "norm_label": "-judgeassetisinlocalablum"
+    },
+    {
+      "label": "LWPhotoModel",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L266",
+      "id": "classes_lwphotopicker_lwphotomodel",
+      "community": 3,
+      "norm_label": "lwphotomodel"
+    },
+    {
+      "label": "LWPhotoPickerView.h",
+      "file_type": "code",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.h",
+      "source_location": "L1",
+      "id": "lwphotopicker_classes_lwphotopickerview_h",
+      "community": 14,
+      "norm_label": "lwphotopickerview.h"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_tests_tests_m",
+      "target": "tests_tests_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_teardown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/Tests/Tests.m",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "tests_tests_tests",
+      "target": "tests_tests_tests_testexample",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwphotopicker_lwappdelegate_m",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWAppDelegate.m",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwappdelegate_lwappdelegate",
+      "target": "lwphotopicker_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "example_lwphotopicker_lwviewcontroller_m",
+      "target": "lwphotopicker_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "example_lwphotopicker_lwviewcontroller_m",
+      "target": "lwphotopicker_lwviewcontroller_uiimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwviewcontroller_lwviewcontroller",
+      "target": "lwphotopicker_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwviewcontroller_lwviewcontroller",
+      "target": "lwphotopicker_lwviewcontroller_lwviewcontroller_leftpickerbtnaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwviewcontroller_lwviewcontroller",
+      "target": "lwphotopicker_lwviewcontroller_lwviewcontroller_rightpickerbtnaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwviewcontroller_uiimage",
+      "target": "lwphotopicker_lwviewcontroller_uiimage_blurimagewithradius",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWPhotoPicker/LWViewController.m",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "lwphotopicker_lwviewcontroller_uiimage",
+      "target": "lwphotopicker_lwviewcontroller_uiimage_blurwithrectradius",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L135",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_cropimage",
+      "target": "lwphotopicker_lwviewcontroller_uiimage"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L305",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_requestimage",
+      "target": "lwphotopicker_lwviewcontroller_uiimage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwaspectphotopickerview_swift",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwaspectphotopickerview_swift",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwaspectphotopickerview_swift",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotocell",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L209",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwaspectphotopickerview_swift",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L244",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_setupswiftuiview",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotocell",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickerview",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_photocell",
+      "target": "view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickerview_init",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L70",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_loadphotos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_selectphoto",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_cropimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_selectphoto",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotopickerviewmodel_cropimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_aspectphotocell",
+      "target": "swiftclasses_lwaspectphotopickerview_aspectphotocell_loadimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L209",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview",
+      "target": "uiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L219",
+      "weight": 1.0,
+      "context": "call",
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_pickerphoto",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L236",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L240",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_setupswiftuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickeruiview",
+      "target": "uiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWAspectPhotoPickerView.swift",
+      "source_location": "L227",
+      "weight": 1.0,
+      "source": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_pickerphoto",
+      "target": "swiftclasses_lwaspectphotopickerview_lwaspectphotopickeruiview_setupswiftuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopickerview_swift",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopickerview_swift",
+      "target": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopickerview_swift",
+      "target": "swiftclasses_lwphotopickerview_photocell",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopickerview_swift",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickeruiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickerview",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickerview_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickeruiview_setupswiftuiview",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickerview_init",
+      "target": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "target": "swiftclasses_lwphotopickerview_photopickerviewmodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "target": "swiftclasses_lwphotopickerview_photopickerviewmodel_loadphotos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_photopickerviewmodel",
+      "target": "swiftclasses_lwphotopickerview_photopickerviewmodel_selectphoto",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_photocell",
+      "target": "swiftclasses_lwphotopickerview_photocell_loadimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L191",
+      "weight": 1.0,
+      "context": "call",
+      "source": "swiftclasses_lwphotopickerview_lwphotopickeruiview_photopicker",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickeruiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickeruiview",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickeruiview_setupswiftuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPickerView.swift",
+      "source_location": "L192",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopickerview_lwphotopickeruiview_photopicker",
+      "target": "swiftclasses_lwphotopickerview_lwphotopickeruiview_setupswiftuiview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopicker_swift",
+      "target": "swiftclasses_lwphotopicker_lwphotoalbumlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopicker_swift",
+      "target": "swiftclasses_lwphotopicker_lwphotomodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "lwphotopicker_swift_swiftclasses_lwphotopicker_swift",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotoalbumlist",
+      "target": "swiftclasses_lwphotopicker_lwphotoalbumlist_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_getphotoalbumlist",
+      "target": "swiftclasses_lwphotopicker_lwphotoalbumlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotomodel",
+      "target": "swiftclasses_lwphotopicker_lwphotomodel_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_saveimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getdestinationcollection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getphotoalbumlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_fetchassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L197",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getallassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L219",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L283",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_requestimage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L326",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getphotosbytes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L349",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_transformdatalength",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L364",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_judgeassetisinlocalalbum",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_saveimage",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_fetchassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_saveimage",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getdestinationcollection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L150",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_getphotoalbumlist",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_getassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_getallassets",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_fetchassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L222",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_getassets",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_fetchassets",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker_swift/SwiftClasses/LWPhotoPicker.swift",
+      "source_location": "L343",
+      "weight": 1.0,
+      "source": "swiftclasses_lwphotopicker_lwphotopicker_getphotosbytes",
+      "target": "swiftclasses_lwphotopicker_lwphotopicker_transformdatalength",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwphotopickerview_m",
+      "target": "classes_lwphotopickerview_lwphotopickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L171",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwphotopickerview_m",
+      "target": "classes_lwphotopickerview_lwphotocollectioncell",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_photopickerwithframeoutsizepickedblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_initwithframecollectionviewlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_collectionviewnumberofitemsinsection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_reloadphotos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_collectionviewcellforitematindexpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_collectionviewdidselectitematindexpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L156",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_collectionviewdiddeselectitematindexpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotopickerview",
+      "target": "classes_lwphotopickerview_lwphotopickerview_diskcache",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPickerView.m",
+      "source_location": "L173",
+      "weight": 1.0,
+      "source": "classes_lwphotopickerview_lwphotocollectioncell",
+      "target": "classes_lwphotopickerview_lwphotocollectioncell_initwithframe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwaspectphotopickerview_m",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L170",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwaspectphotopickerview_m",
+      "target": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_pickerphotowithsizepickedblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_initwithframewithphotopicker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_didmovetosuperview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_reoadphotos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewnumberofitemsinsection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewcellforitematindexpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewlayoutsizeforitematindexpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_collectionviewdidselectitematindexpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_croppingimagecentersquaresize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_getsizewithasset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L158",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectphotopickerview",
+      "target": "classes_lwaspectphotopickerview_lwaspectphotopickerview_getimagewithassetcompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell",
+      "target": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell_initwithframe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWAspectPhotoPickerView.m",
+      "source_location": "L187",
+      "weight": 1.0,
+      "source": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell",
+      "target": "classes_lwaspectphotopickerview_lwaspectsizephotocollectioncell_layoutsubviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwphotopicker_m",
+      "target": "classes_lwphotopicker_lwphotoablumlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwphotopicker_m",
+      "target": "classes_lwphotopicker_lwphotopicker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L266",
+      "weight": 1.0,
+      "source": "lwphotopicker_classes_lwphotopicker_m",
+      "target": "classes_lwphotopicker_lwphotomodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_saveimagetoablumcompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_getdestinationcollection",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_getphotoablumlist",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_fetchassetsinassetcollectionascending",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_getallassetinphotoablumwithascending",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L147",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_getassetsinassetcollectionascending",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_requestimageforassetsizesynchronouscompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L201",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_requestimageforassetscaleresizemodecompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L216",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_getphotosbyteswitharraycompletion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_transformdatalength",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWPhotoPicker/Classes/LWPhotoPicker.m",
+      "source_location": "L249",
+      "weight": 1.0,
+      "source": "classes_lwphotopicker_lwphotopicker",
+      "target": "classes_lwphotopicker_lwphotopicker_judgeassetisinlocalablum",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
